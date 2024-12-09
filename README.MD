@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đặng Quốc Nam</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [Pareto asia](https://pareto.asia/)
-
-- 🌱 I’m currently learning **React native**
+- 🔭 I’m looking for a job
 
 - 👨‍💻 All of my projects are available at [https://porfolio-phi-ten.vercel.app/](https://porfolio-phi-ten.vercel.app/)
 
